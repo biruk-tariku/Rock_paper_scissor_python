@@ -2,6 +2,7 @@
 
 a simple implementation of the classic Rock, Paper, Scissors game between a player (Player 1) and a computer-generated opponent (Player 2). The code takes input from the player, generates a random choice for Player 2, and then determines the winner based on the game's rules.
 
+
 Here's a breakdown of how your code works:
 
 1. `import random`: Imports the random module, which you'll use to generate a random choice for Player 2.
